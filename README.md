@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urielbang&label=Profile%20views&color=0e75b6&style=flat" alt="urielbang" /> </p>
 
-- 🔭 I’m currently working on [Protfolio](https://urielbang.github.io/uriel-Protfolio/)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **JavaScript**
 
