@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://urielbang.github.io/uriel-Protfolio/]([https://urielbang.github.io/uriel-Protfolio/](https://main--uriel-bang.netlify.app/))
+- 👨‍💻 All of my projects are available at [(https://main--uriel-bang.netlify.app/)]
 
 - 💬 Ask me about **Applications**
 
