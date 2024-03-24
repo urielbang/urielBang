@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urielbang&label=Profile%20views&color=0e75b6&style=flat" alt="urielbang" /> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on https://main--uriel-bang.netlify.app/
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://urielbang.github.io/uriel-Protfolio/](https://urielbang.github.io/uriel-Protfolio/)
+- 👨‍💻 All of my projects are available at [https://urielbang.github.io/uriel-Protfolio/]([https://urielbang.github.io/uriel-Protfolio/](https://main--uriel-bang.netlify.app/))
 
 - 💬 Ask me about **Applications**
 
