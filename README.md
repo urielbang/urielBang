@@ -83,15 +83,13 @@ I’m a passionate developer who loves building impactful applications that solv
 ## 📊 **Graphs**
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=urielbang&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-### Commit Graph
-<p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=urielbang&bg_color=282426&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
+
+### Commit Graph
+
 ---
 
 ## 💼 **Featured Projects**
