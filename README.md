@@ -89,6 +89,11 @@ I’m a passionate developer who loves building impactful applications that solv
 </p>
 
 ### Commit Graph
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urielbang&show_icons=true&locale=en&layout=compact" alt="urielbang" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urielbang&show_icons=true&locale=en" alt="urielbang" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urielbang&" alt="urielbang" /></p>
 
 ---
 
