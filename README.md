@@ -88,7 +88,6 @@ I’m a passionate developer who loves building impactful applications that solv
   </a>
 </p>
 
-### Commit Graph
 
 
 ---
