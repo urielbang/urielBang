@@ -69,13 +69,13 @@ I’m a passionate developer who loves building impactful applications that solv
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urielbang&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urielbang&show_icons=true&locale=en&theme=radical" alt="urielbang" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urielbang&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urielbang&show_icons=true&locale=en&layout=compact&theme=radical" alt="urielbang" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielbang&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urielbang&theme=radical" alt="urielbang" />
 </p>
 
 ---
