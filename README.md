@@ -87,6 +87,13 @@ I’m a passionate developer who loves building impactful applications that solv
 
 ---
 
+## 📊 **Commit Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=urielbang&theme=tokyo-night&area=true&hide_border=true" alt="Commit Graph" />
+</p>
+
+---
+
 ## 💼 **Featured Projects**
 - 🛡️ **[LionsHeroes App](https://github.com/urielbang/LionsHeroes)**: A React Native app promoting mindfulness and community engagement.
 - 🌐 **[Together App](https://github.com/urielbang/Together)**: Social platform fostering collaboration and shared activities.
@@ -100,3 +107,4 @@ I’m a passionate developer who loves building impactful applications that solv
 - ✨ **Passion**: Building modern, scalable, and impactful applications.
 
 ---
+
