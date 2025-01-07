@@ -82,7 +82,7 @@ I’m a passionate developer who loves building impactful applications that solv
 
 ## 📊 **Contribution Graph**
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=urielbang&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=urielbang&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
