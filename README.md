@@ -88,8 +88,10 @@ I’m a passionate developer who loves building impactful applications that solv
 
 ### Commit Graph
 <p align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=urielbang&bg_color=282426&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
-
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=urielbang&bg_color=282426&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
 ---
 
 ## 💼 **Featured Projects**
