@@ -80,6 +80,13 @@ I’m a passionate developer who loves building impactful applications that solv
 
 ---
 
+## 📊 **Contribution Graph**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=urielbang&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 💼 **Featured Projects**
 - 🛡️ **[LionsHeroes App](https://github.com/urielbang/LionsHeroes)**: A React Native app promoting mindfulness and community engagement.
 - 🌐 **[Together App](https://github.com/urielbang/Together)**: Social platform fostering collaboration and shared activities.
@@ -93,5 +100,3 @@ I’m a passionate developer who loves building impactful applications that solv
 - ✨ **Passion**: Building modern, scalable, and impactful applications.
 
 ---
-
-Let me know if you'd like further customization or tweaks! 😊
